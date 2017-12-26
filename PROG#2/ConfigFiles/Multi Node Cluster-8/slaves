@@ -1,0 +1,11 @@
+//Master Node
+ec2-18-217-199-232.us-east-2.compute.amazonaws.com
+
+//Slave Nodes
+ec2-18-217-165-75.us-east-2.compute.amazonaws.com
+ec2-52-14-110-195.us-east-2.compute.amazonaws.com
+ec2-18-217-114-9.us-east-2.compute.amazonaws.com
+ec2-18-217-110-237.us-east-2.compute.amazonaws.com
+ec2-13-58-110-132.us-east-2.compute.amazonaws.com
+ec2-13-58-114-16.us-east-2.compute.amazonaws.com
+ec2-13-16-136-28.us-east-2.compute.amazonaws.com
